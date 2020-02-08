@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFireBaseProject</string>
+    <string name="location_track_info">Tracker is working.</string>
+    <string name="firebase_path" translatable="false">locations</string>
+</resources>
